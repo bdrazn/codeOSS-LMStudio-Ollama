@@ -14,6 +14,9 @@ Requires **LM Studio** (embeddings) and **Ollama** (local / “local-cloud” mo
 Built on a stripped-down open-source VS Code (Code OSS).
 
 ---
+#Key Feature 
+**You can set a remote base URL for your local models and have access to them through the internet!**
+---
 
 ## About
 
