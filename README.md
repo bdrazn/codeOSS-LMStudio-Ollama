@@ -46,8 +46,7 @@ Built on a stripped-down open-source VS Code (Code OSS).
 
 ## Issues
 
-- Any model with a context window **≤ 8192 tokens** tends to **hallucinate tools** (often refusing to use tool calls).
-- These models may rely only on the context directly fed to them instead of invoking tools.
+- Any model with a context window **≤ 8192 tokens** tends to **hallucinate tools** (often refusing to use tool calls). These models may rely only on the context directly fed to them instead of invoking tools.
 
 ---
 
