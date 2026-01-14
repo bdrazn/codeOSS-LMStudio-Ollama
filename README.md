@@ -7,7 +7,7 @@ Commercial use requires a separate agreement.
 **Disclaimer:**
 This was built on open source OSSCode (open source version of vscode). However, everything about the chat logic is proprietary and built from scratch. Added code uses some built-in tools and hooks partially into the chatui for display. NativeChat system was mostly bypassed for more freedom in controlling UI Behavior.
 
-# codeOSS-LMStudio-Ollama
+# codeOSSLocal for LMStudio and Ollama
 
 **Built only for local models.**  
 Requires **LM Studio** (embeddings) and **Ollama** (local / “local-cloud” models).  
